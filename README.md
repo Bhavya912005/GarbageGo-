@@ -9,7 +9,7 @@ This also makes it convenient for the vendors to find customers with the help of
 ## Figma Prototype
 https://www.figma.com/proto/DnYY1GAe3kwrjgRKheiYiI/Garbage-Go!?type=design&t=e859V9Vb4jGVU3Mh-1&scaling=min-zoom&page-id=0%3A1&node-id=736-83&starting-point-node-id=712%3A64&mode=design
 
-### Presentation Link
+## Presentation Link
 https://www.canva.com/design/DAFdb92vO0I/TAbEfeboUkm0yuVBCUVeIQ/view
 
 #### Here's a video demo for the same:
